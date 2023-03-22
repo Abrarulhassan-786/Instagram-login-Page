@@ -1,0 +1,116 @@
+*{
+    background-color:#DDDBE2;
+    padding: 0px;
+    margin: 0px;
+}
+form{
+    background-color: white;
+    width: 350px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#loginpass{
+    background-color: white;
+}
+#facebook{
+    background-color: white;
+}
+h1{
+    background-color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+input{
+    padding: 10px;
+    margin-left: 30px;
+}
+.inputvalue{
+    height: 20px;
+    width: 240px;
+    font-size: 15px;
+    background-color: white;
+    border: 2px solid #DDDBE2;;
+}
+.inputvalues{
+    width: 266px;
+    font-size: 20px;
+    color: white;
+    background-color:#5F8AEC;
+    border: 2px solid #DDDBE2;
+}
+#facebook{
+    margin-top: 60px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    width: 260px;
+    margin:10px 0px 20px 30px;
+}
+#loginpass{
+    margin-top: 60px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2px 0px 0px 15px;
+    margin-left: 90px;
+}
+h1{
+    padding: 20px;
+    margin-left: 40px;
+}
+#formlower{
+    background-color: white;
+    width: 364px;
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 15px;
+}
+span{
+    background-color: white;
+    font-size: 18px;
+    padding-left: 30px;
+}
+#sing{
+    color: #5F8AEC;
+    font-weight: bold;
+}
+.apps{
+    font-size: 20px;
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: black;
+    color: white;
+    width: 150px;
+    border: 2px solid black;
+
+}
+#maindiv{
+    display: flex;
+    margin:30px 0px 0px 300px;
+}
+#appses{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.apps:hover{
+    background-color: white;
+    color: black;
+}
+#loginformdiv{
+    margin: 40px 0px 0px 20px;
+}
+.foot{
+    display: inline-block;
+    padding: 5px;
+}
+#bottom{
+    width:700px;
+    padding: 10px;
+    margin:auto;
+    color: lightslategray
+}
+#last{
+    margin-top: 10px;
+    margin-left: 200px;
+}
